@@ -213,4 +213,3 @@
 /Users/danielmurphy/Projects/DutarGame/DutarGame/obj/Release/net6.0/osx-x64/DutarGame.pdb
 /Users/danielmurphy/Projects/DutarGame/DutarGame/obj/Release/net6.0/osx-x64/DutarGame.genruntimeconfig.cache
 /Users/danielmurphy/Projects/DutarGame/DutarGame/obj/Release/net6.0/osx-x64/ref/DutarGame.dll
-/Users/danielmurphy/Projects/DutarGame/DutarGame/obj/Release/net6.0/osx-x64/DutarGame.sourcelink.json

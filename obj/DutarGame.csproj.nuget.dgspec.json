@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielmurphy/Projects/DutarGame/DutarGame/DutarGame.csproj": {}
+    "/Users/danielmurphy/Documents/GitHub/main/dutar-monogame/DutarGame/DutarGame/DutarGame.csproj": {}
   },
   "projects": {
-    "/Users/danielmurphy/Projects/DutarGame/DutarGame/DutarGame.csproj": {
+    "/Users/danielmurphy/Documents/GitHub/main/dutar-monogame/DutarGame/DutarGame/DutarGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielmurphy/Projects/DutarGame/DutarGame/DutarGame.csproj",
+        "projectUniqueName": "/Users/danielmurphy/Documents/GitHub/main/dutar-monogame/DutarGame/DutarGame/DutarGame.csproj",
         "projectName": "DutarGame",
-        "projectPath": "/Users/danielmurphy/Projects/DutarGame/DutarGame/DutarGame.csproj",
+        "projectPath": "/Users/danielmurphy/Documents/GitHub/main/dutar-monogame/DutarGame/DutarGame/DutarGame.csproj",
         "packagesPath": "/Users/danielmurphy/.nuget/packages/",
-        "outputPath": "/Users/danielmurphy/Projects/DutarGame/DutarGame/obj/",
+        "outputPath": "/Users/danielmurphy/Documents/GitHub/main/dutar-monogame/DutarGame/DutarGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielmurphy/.nuget/NuGet/NuGet.Config"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,7 +9,7 @@ using System.Reflection.Metadata;
 
 
 namespace DutarGame;
-//
+
 public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
