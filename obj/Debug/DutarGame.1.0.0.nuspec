@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DutarGame</id>
+    <version>1.0.0</version>
+    <authors>DutarGame</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/dutar3.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_A.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_ASBF.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_B.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_C.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_CSDF.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_D.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_DSEF.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_E.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_F.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_FSGF.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_G.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_GSAF.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/File.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/HelpFonts.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/MenuFonts.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/bin/Debug/net6.0/DutarGame.runtimeconfig.json" target="lib/net6.0/DutarGame.runtimeconfig.json" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/bin/Debug/net6.0/DutarGame.dll" target="lib/net6.0/DutarGame.dll" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/dutar3.xnb" target="content/Content/bin/DesktopGL/Content/dutar3.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/dutar3.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/dutar3.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_A.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_A.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_A.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_A.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_ASBF.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_ASBF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_ASBF.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_ASBF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_B.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_B.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_B.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_B.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_C.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_C.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_C.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_C.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_CSDF.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_CSDF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_CSDF.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_CSDF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_D.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_D.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_D.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_D.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_DSEF.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_DSEF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_DSEF.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_DSEF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_E.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_E.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_E.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_E.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_F.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_F.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_F.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_F.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_FSGF.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_FSGF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_FSGF.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_FSGF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_G.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_G.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_G.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_G.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_GSAF.xnb" target="content/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_GSAF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_GSAF.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Dutar_Sounds/dutar_GSAF.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/File.xnb" target="content/Content/bin/DesktopGL/Content/File.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/File.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/File.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/HelpFonts.xnb" target="content/Content/bin/DesktopGL/Content/HelpFonts.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/HelpFonts.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/HelpFonts.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/MenuFonts.xnb" target="content/Content/bin/DesktopGL/Content/MenuFonts.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/MenuFonts.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/MenuFonts.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.xnb" target="content/Content/bin/DesktopGL/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.xnb" />
+    <file src="/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.xnb" target="contentFiles/any/net6.0/Content/bin/DesktopGL/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.xnb" />
+  </files>
+</package>

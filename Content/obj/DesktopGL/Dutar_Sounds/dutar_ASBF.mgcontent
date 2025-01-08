@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_ASBF.wav</SourceFile>
+  <SourceTime>2023-12-10T13:58:43.0097029-05:00</SourceTime>
+  <DestFile>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/bin/DesktopGL/Dutar_Sounds/dutar_ASBF.xnb</DestFile>
+  <DestTime>2023-12-11T14:39:42.8984276-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

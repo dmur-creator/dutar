@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_A.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_ASBF.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_B.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_C.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_CSDF.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_D.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_DSEF.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_E.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_F.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_FSGF.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_G.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Dutar_Sounds/dutar_GSAF.wav</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/dutar3.jpg</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/File.spritefont</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/HelpFonts.spritefont</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/MenuFonts.spritefont</File>
+    <File>/Users/danielmurphy/Projects/DutarGame/DutarGame/Content/Turkmen Dutar instrumental performance by Oghlan Bakhshi.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
